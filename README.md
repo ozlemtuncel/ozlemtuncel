@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ozlemtuncel - a PhD candidate at GSU
+- 👋 Hi, I’m @ozlemtuncel - Lecturer and Data Services Specialist at GSU
 - 👀 I’m interested in political parties in autocracies
-- 🌱 I’m currently working on my dissertation project which is about pre-electoral coalitions in electoral authoritarian regimes
+- 🌱 I’m currently working on my book project which is about pre-electoral coalitions in electoral authoritarian regimes
 - 💞️ I’m looking to collaborate on political parties, elections, and legislatures in autocracies
 - 📫 Email otuncelgurlek1@gsu.edu or message me on Twitter (ozlem__tuncel) 
 
